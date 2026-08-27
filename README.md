@@ -1,14 +1,28 @@
-# 💫 Hi 👋, I'm Shubham Patel
-**A FullStack Devloper || IOS Devloper || Animator
+<div align="center">
 
-Email Me 👉 ✉️ **Shubh200313@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+  <!-- Dynamic Typing Header Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Shubham+Patel;Full-Stack+Web+Developer;Next.js+%26+TypeScript+Enthusiast;2D+Anime+Animator+%26+Creator" alt="Typing SVG" />
+  </a>
 
-- 🔭 ** I’m currently working on: Freelance web development projects & Open-source contributions
-- 👯 ** I’m looking to collaborate on: Open-source repositories, Next.js web applications, & Freelance client work
-- 🏋🏻 ** I’m looking for help with: Advanced DevOps workflows & Scaling backend infrastructure
-- 🌱 ** I’m currently learning: DevOps, Microservices, & System Architecture
-- 💬 ** Ask me about: Full-stack development (React, Next.js, Node.js), TypeScript, & DSA
-- ⚡ ** Fun fact: I code full-stack web apps by day and create 2D anime animations in my free time!
+  <p align="center">
+    <strong>Building scalable web applications by day 💻 • Crafting 2D anime animations by night 🎨</strong>
+  </p>
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+### 💫 About Me
+
+
+Developer_Profile:
+  - 🔭 Currently Working: Freelance Web Applications & Open-Source Contributions
+  - 👯 Collaborating On: Next.js Ecosystem, Open-Source Repos & Web Architecture
+  - 🏋️ Learning & Mastering: DevOps Workflows, Microservices & System Design
+  - 💬 Ask Me About: React, Next.js, Node.js, TypeScript, Express & DSA
+  - ⚡ Fun Fact: I turn coffee into code and storyboards into animated reels!
 
 
 
